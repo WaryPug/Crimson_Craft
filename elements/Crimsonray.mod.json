@@ -1,0 +1,35 @@
+{
+  "_fv": 6,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "crimsonray",
+    "customModelName": "Normal",
+    "name": "Crimson Raygun",
+    "creativeTab": {
+      "value": "CUSTOM:CrimsonCraft"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Crimsonraypellets"
+    },
+    "shootConstantly": false,
+    "usageCount": 1000,
+    "actionSound": {
+      "value": "entity.blaze.shoot"
+    },
+    "hasGlow": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 15.0,
+    "bulletKnockback": 2,
+    "bulletParticles": true,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Crimsonraypellets"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": ""
+  }
+}

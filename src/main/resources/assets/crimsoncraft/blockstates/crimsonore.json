@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "crimsoncraft:block/crimsonore"
+    },
+    "facing=east": {
+      "model": "crimsoncraft:block/crimsonore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "crimsoncraft:block/crimsonore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "crimsoncraft:block/crimsonore",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "crimsoncraft:block/crimsonore",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "crimsoncraft:block/crimsonore",
+      "x": 90
+    }
+  }
+}

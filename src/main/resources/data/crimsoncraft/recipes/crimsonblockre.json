@@ -1,0 +1,42 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "1": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "2": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "3": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "4": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "5": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "6": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "7": {
+      "item": "crimsoncraft:crimsoningot"
+    },
+    "8": {
+      "item": "crimsoncraft:crimsoningot"
+    }
+  },
+  "result": {
+    "item": "crimsoncraft:crimsonblock",
+    "count": 1
+  }
+}

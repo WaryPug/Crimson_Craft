@@ -1,0 +1,30 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crimson",
+    "customModelName": "Normal",
+    "name": "Ultra Crimson Sword",
+    "creativeTab": {
+      "value": "CUSTOM:CrimsonCraft"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 150.0,
+    "usageCount": 2500,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Crimsoningot"
+      }
+    ],
+    "onEntityHitWith": {
+      "name": "UltracrimswordMobIsHitWithTool"
+    }
+  }
+}

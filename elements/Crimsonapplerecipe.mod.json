@@ -1,0 +1,45 @@
+{
+  "_fv": 6,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "recipeRetstackSize": 1,
+    "group": "crimsoncraft",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "Items.APPLE"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      },
+      {
+        "value": "CUSTOM:Crimsonnugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Crimsonapple"
+    },
+    "name": "crimsonapplerecipe",
+    "namespace": "mod"
+  }
+}

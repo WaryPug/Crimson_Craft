@@ -1,0 +1,30 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "crimsoncraft:crimorb"
+    },
+    "3": {
+      "item": "minecraft:blaze_rod"
+    },
+    "4": {
+      "item": "crimsoncraft:crimsonblock"
+    },
+    "5": {
+      "item": "minecraft:blaze_rod"
+    },
+    "7": {
+      "item": "crimsoncraft:crimorb"
+    }
+  },
+  "result": {
+    "item": "crimsoncraft:ultracrimblock",
+    "count": 1
+  }
+}

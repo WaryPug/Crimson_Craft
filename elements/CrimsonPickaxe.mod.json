@@ -1,0 +1,27 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crimpick",
+    "customModelName": "Normal",
+    "name": "Crimson Pickaxe",
+    "creativeTab": {
+      "value": "CUSTOM:CrimsonCraft"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 8,
+    "efficiency": 14.0,
+    "attackSpeed": 1.0,
+    "enchantability": 5,
+    "damageVsEntity": 9.0,
+    "usageCount": 2000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Crimsoningot"
+      }
+    ]
+  }
+}

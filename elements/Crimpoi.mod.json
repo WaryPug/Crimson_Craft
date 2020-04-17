@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "potion",
+  "definition": {
+    "name": "Crimson Poisoning",
+    "effectName": "Crimson Poisoning",
+    "icon": "newcoolass.png",
+    "color": {
+      "value": -10092544,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "registerPotionType": true,
+    "curativeItems": [],
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false,
+    "onActiveTick": {
+      "name": "CrimpoiOnPotionActiveTick"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crimswor",
+    "customModelName": "Normal",
+    "name": "Crimson Sword",
+    "creativeTab": {
+      "value": "CUSTOM:CrimsonCraft"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 10,
+    "efficiency": 16.0,
+    "attackSpeed": 1.0,
+    "enchantability": 70,
+    "damageVsEntity": 10.0,
+    "usageCount": 2380,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

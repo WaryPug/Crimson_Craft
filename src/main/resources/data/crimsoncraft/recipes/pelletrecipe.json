@@ -1,0 +1,13 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "crimsoncraft:crimsoncan"
+    }
+  ],
+  "result": {
+    "item": "crimsoncraft:crimsonraypellets",
+    "count": 9
+  }
+}

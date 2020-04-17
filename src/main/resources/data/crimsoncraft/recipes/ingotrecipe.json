@@ -1,0 +1,11 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:smelting",
+  "experience": 1,
+  "ingredient": {
+    "item": "crimsoncraft:crimsonore"
+  },
+  "result": {
+    "item": "crimsoncraft:crimsoningot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "crimsoncraft:blocks/crimsonson",
+    "up": "crimsoncraft:blocks/crimsonson",
+    "north": "crimsoncraft:blocks/crimsonson",
+    "east": "crimsoncraft:blocks/crimsonson",
+    "south": "crimsoncraft:blocks/crimsonson",
+    "west": "crimsoncraft:blocks/crimsonson",
+    "particle": "crimsoncraft:blocks/crimsonson"
+  }
+}

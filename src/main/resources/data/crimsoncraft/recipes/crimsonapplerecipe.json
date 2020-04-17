@@ -1,0 +1,42 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "1": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "2": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "3": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "4": {
+      "item": "minecraft:apple"
+    },
+    "5": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "6": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "7": {
+      "item": "crimsoncraft:crimsonnugget"
+    },
+    "8": {
+      "item": "crimsoncraft:crimsonnugget"
+    }
+  },
+  "result": {
+    "item": "crimsoncraft:crimsonapple",
+    "count": 1
+  }
+}
