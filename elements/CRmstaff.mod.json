@@ -1,0 +1,33 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "crimstaff",
+    "customModelName": "Normal",
+    "name": "Crimson's Staff",
+    "creativeTab": {
+      "value": "CUSTOM:CrimsonCraft"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 1.6,
+    "enchantability": 2,
+    "damageVsEntity": 250.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Ultracrimgem"
+      }
+    ],
+    "onRightClickedInAir": {
+      "name": "CrimstaffRightClickedInAirRightClickedInAir"
+    },
+    "onEntityHitWith": {
+      "name": "CrimstaffRightClickedInAirMobIsHitWithTool"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "group": "crimsoncraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "crimsoncraft:rubbermall"
+    },
+    "1": {
+      "item": "crimsoncraft:crimsonchis"
+    },
+    "2": {
+      "item": "crimsoncraft:ultracrimblock"
+    }
+  },
+  "result": {
+    "item": "crimsoncraft:ultracrimgem",
+    "count": 2
+  }
+}
