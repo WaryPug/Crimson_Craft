@@ -500,12 +500,12 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "biome.crimsoncraft.thecrimson": "The Crimson",
-      "item.crimsoncraft.crimsonray": "Crimson Raygun",
       "item.crimsoncraft.crimsetbody": "Crimson Chestplate",
+      "item.crimsoncraft.crimsonray": "Crimson Raygun",
+      "biome.crimsoncraft.thecrimson": "The Crimson",
       "item.crimsoncraft.crimsonnugget": "Crimson Nugget",
-      "item.minecraft.lingering_potion.effect.crimpoi": "Lingering Crimson Poisoning",
       "entity.crimsoncraft.crimsonwarroir": "Crimson Warrior",
+      "item.minecraft.lingering_potion.effect.crimpoi": "Lingering Crimson Poisoning",
       "item.crimsoncraft.crimsoningot": "Crimson Ingot",
       "block.crimsoncraft.ultracrimblock": "Ultra Crimson Block",
       "item.crimsoncraft.crmstaff": "Crimson\u0027s Staff",
